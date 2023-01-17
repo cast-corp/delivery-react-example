@@ -1,5 +1,7 @@
 # Cast In-app Delivery React Example
 
+This is a simple example of how to use [cast.app](https://cast.app) In-app Delivery with React. Learn more at [school.cast.app](https://school.cast.app).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
