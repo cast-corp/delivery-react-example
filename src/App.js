@@ -5,7 +5,7 @@ const App = () => {
   const projectId = 2114;
   const contactId = 1443684;
 
-  // This key can be public, it can only be used to retrieve a link to a presentation.
+  // This key can be public, it can only be used to retrieve a link to the presentation given above.
   const apiKey =
     "62a000217e9415deb2271359eebec76d91b9c154f7ff275bf4eeafaecfc71d49";
 
