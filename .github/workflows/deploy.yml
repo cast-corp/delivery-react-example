@@ -4,9 +4,11 @@ on:
   push:
     branches:
       - main
-    paths-ignore:
-      - ".github/**"
-      - "**/*.md"
+    paths:
+      - "**"
+      - "!.github/**"
+      - ".github/workflows/**"
+      - "!**/*.md"
   workflow_dispatch:
 
 permissions:
