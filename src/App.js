@@ -7,7 +7,7 @@ const App = () => {
 
   // This key can be public, it can only be used to retrieve a link to the presentation given above.
   const apiKey =
-    "a18c08ebdc9e56a5eb331a81ac94a556edf035b063d9d880b1a3d447f7019f50";
+    "f92a872467c4b12f1021dbcb4a3a067a2f42b588dff45d64100b91fe63921ac4";
 
   const linkState = useCastLink(projectId, contactId, apiKey);
 
