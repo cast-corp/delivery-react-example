@@ -2,12 +2,12 @@ import "./App.css";
 import useCastLink from "./useCastLink";
 
 const App = () => {
-  const projectId = 2114;
-  const contactId = 1443684;
+  const projectId = 2682;
+  const contactId = 1443655;
 
   // This key can be public, it can only be used to retrieve a link to the presentation given above.
   const apiKey =
-    "f92a872467c4b12f1021dbcb4a3a067a2f42b588dff45d64100b91fe63921ac4";
+    "7e11a65ccc0481b937825da60355633a952cb931497f91b6ae27cb4180417989";
 
   const linkState = useCastLink(projectId, contactId, apiKey);
 
